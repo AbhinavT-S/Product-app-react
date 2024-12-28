@@ -15,7 +15,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Basmathi Rice</h5>
                                         <p class="card-text">1Kg--₹273</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
@@ -27,7 +27,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Coconut Oil</h5>
                                         <p class="card-text">1L--₹230</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
@@ -38,7 +38,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Salt</h5>
                                         <p class="card-text">1Kg--₹20</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
@@ -50,7 +50,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Sugar</h5>
                                         <p class="card-text">1Kg--₹42</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
@@ -62,7 +62,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Tomato</h5>
                                         <p class="card-text">1Kg--₹53</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
@@ -74,7 +74,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Potato</h5>
                                         <p class="card-text">1Kg--₹42</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
@@ -86,7 +86,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Onion</h5>
                                         <p class="card-text">1Kg--₹70</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
@@ -98,7 +98,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Eggs</h5>
                                         <p class="card-text">Per egg--₹6.13</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
@@ -110,7 +110,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Apple</h5>
                                         <p class="card-text">1Kg--₹159</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
@@ -122,7 +122,7 @@ const ShoppingCart = () => {
                                     <div class="card-body">
                                         <h5 class="card-title">Milk</h5>
                                         <p class="card-text">1L--₹56</p>
-                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                        <a href="#" class="btn btn-primary">Buy Now</a>
                                     </div>
                                 </div>
 
